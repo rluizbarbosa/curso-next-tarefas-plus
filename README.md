@@ -1,4 +1,4 @@
-# Tabuleiro
+# Tarefas +
 
 Esse é um projeto feito no curso de NextJs
 
